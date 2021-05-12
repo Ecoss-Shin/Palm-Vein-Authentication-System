@@ -16,3 +16,8 @@
 
 ![image03](https://user-images.githubusercontent.com/73572179/117946330-2c78d400-b34a-11eb-8b02-75752e9388ad.jpg)
 
+### 2. 이미지 처리
+
+이미지 처리는 아래 그림의 순서를 따른다.
+
+![asdf](https://user-images.githubusercontent.com/73572179/117948527-2ab01000-b34c-11eb-8c14-b1b813481ab5.JPG)
