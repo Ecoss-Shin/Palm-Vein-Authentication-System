@@ -14,4 +14,5 @@
 
 상자를 사용하여 적외선 LED가 방해받지 않도록 하고 ELP-USB0230X2-KV90( 적외선 LED와 적외선 카메라 )를 사용하여 기본적인 하드웨어를 구성했다.
 
-![image02](https://user-images.githubusercontent.com/73572179/117946246-15d27d00-b34a-11eb-8cd2-cf5c3f438c47.jpg)
+![image03](https://user-images.githubusercontent.com/73572179/117946330-2c78d400-b34a-11eb-8b02-75752e9388ad.jpg)
+
