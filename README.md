@@ -21,3 +21,13 @@
 이미지 처리는 아래 그림의 순서를 따른다.
 
 ![asdf](https://user-images.githubusercontent.com/73572179/117948527-2ab01000-b34c-11eb-8c14-b1b813481ab5.JPG)
+
+### 3. 인증 with TensorFlow
+
+train을 위해 데이터가 필요하며 2명의 각 왼손, 오른손 사진을 5장 ~ 10장까지 train 시켰다.
+
+![train_image](https://user-images.githubusercontent.com/73572179/117949151-c9d50780-b34c-11eb-9dd2-0fb920da46d4.JPG)
+
+결과가 잘 나오는 것을 확인할 수 있다.
+
+
