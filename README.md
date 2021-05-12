@@ -30,5 +30,4 @@ train을 위해 데이터가 필요하며 2명의 각 왼손, 오른손 사진�
 
 결과가 잘 나오는 것을 확인할 수 있다.
 
-![Uploading asddsaf.JPG…]()
-
+![asddsaf](https://user-images.githubusercontent.com/73572179/117949363-03a60e00-b34d-11eb-8ab4-be930519543b.JPG)
