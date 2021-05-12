@@ -20,7 +20,7 @@
 
 이미지 처리는 아래 그림의 순서를 따른다.
 
-![asdf](https://user-images.githubusercontent.com/73572179/117948527-2ab01000-b34c-11eb-8c14-b1b813481ab5.JPG)
+![dccc](https://user-images.githubusercontent.com/73572179/117950134-d6a62b00-b34d-11eb-8c70-42695ac6c6fa.JPG)
 
 ### 3. 인증 with TensorFlow
 
